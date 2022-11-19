@@ -57,8 +57,8 @@ function MyApp({ Component, pageProps, router }: AppProps) {
         title={BRAND_TITLE}
         titleTemplate={`%s | ${BRAND_TITLE}`}
         twitter={{
-          handle: '@fatdho',
-          site: '@fatdho',
+          handle: '@fadlyid',
+          site: '@fadlyid',
           cardType: 'summary_large_image'
         }}
       />
