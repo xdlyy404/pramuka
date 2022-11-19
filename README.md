@@ -4,11 +4,11 @@
 
 ## Live Web
 
-👉 https://pramuka.fth.my.id
+👉 https://pramuka.whofadly.my.id
 
 ## Public API
 
-👉 https://pramuka.fth.my.id/api
+👉 https://pramuka.whofadly.my.id/api
 
 ## Credits
 
@@ -22,10 +22,10 @@
 
 ## Support me
 
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/FatihArridho?utm_source=github)
-- 👉 🇮🇩 [Saweria](https://saweria.co/FatihArridho?utm_source=github)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/FatihArridho)
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/fadlyid?utm_source=github)
+- 👉 🇮🇩 [Saweria](https://saweria.co/fadlyid?utm_source=github)
+- 👉 🌍 [Ko-Fi](https://ko-fi.com/fadlyid)
 
 ---
 
-Copyright © 2022 by [Fatih Arridho](https://fatiharridho.my.id)
+Copyright © 2022 by [Fadly ID](https://instagram.com/iamfadlyid_)
