@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://pramuka.fth.my.id
+Host: https://pramuka.whofadly.my.id
 
 # Sitemaps
-Sitemap: https://pramuka.fth.my.id/sitemap.xml
+Sitemap: https://pramuka.whofadly.my.id/sitemap.xml
