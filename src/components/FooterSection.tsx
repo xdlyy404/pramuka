@@ -4,12 +4,12 @@ function Footer() {
       <p>
         Dibuat oleh{' '}
         <a
-          href="https://fatiharridho.my.id"
+          href="https://instagram.com/iamfadlyid_"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          Fatih Arridho
+          Fadly ID
         </a>
       </p>
       <p className="mt-2">
@@ -24,7 +24,7 @@ function Footer() {
         </a>
         {', '}
         <a
-          href="https://islamiah.fth.my.id"
+          href="https://islamiah.whofadly.my.id"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
